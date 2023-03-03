@@ -11,4 +11,4 @@ Welcome to GitPress. This is your first post.
 
 - Website: https://gitpress.io
 - Getting Started: https://gitpress.io/c/help/welcome
-- User Home: https://gitpress.io/u/1893
+- User Home: [https://gitpress.io/@ulpianus/](https://gitpress.io/@ulpianus/)
